@@ -1,4 +1,4 @@
-import "../styles/main.css";
+import "../styles/main.scss";
 import { content } from "./content";
 
 window.onload = () => {
